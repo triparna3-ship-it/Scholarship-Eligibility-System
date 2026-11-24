@@ -1,6 +1,6 @@
 # Scholarship Eligibility Screening System
 
-A beginner-friendly Python project that screens university scholarship applications using predefined, deterministic rules.
+A Python-based project that screens university scholarship applications using predefined, deterministic rules.
 
 ## Project Overview
 
