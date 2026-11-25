@@ -98,6 +98,4 @@ python main.py
 - Add a graphical user interface.
 - Export reports in additional formats.
 
-## Author
 
-Add your name, roll number, course and institution here.
