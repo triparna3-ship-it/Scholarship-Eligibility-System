@@ -87,9 +87,9 @@ python main.py
 
 ## Important Notes
 
-- Sample records are stored in a list of dictionaries in `data/sample_students.py`.
+- Sample records are stored in a list of dictionaries in `Data/sample_students.py`.
 - New applications added while the program is running are held in memory. They are not permanently stored after the program closes.
-- Generated text reports are saved in `reports/`.
+- Generated text reports are saved in `report/`.
 - The scoring formula is illustrative. A university should approve its own scoring and award policy before using the system for actual scholarship decisions.
 
 ## Future Improvements
