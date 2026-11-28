@@ -47,7 +47,7 @@ Scholarship-Eligibility-Screening-System/
 ├── data/
 │   └── sample_students.py
 ├── reports/
-│   └── .gitkeep
+│   └── scholarship_screening_project_report.docx
 ├── README.md
 └── .gitignore
 ```
