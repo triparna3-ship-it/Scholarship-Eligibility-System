@@ -45,7 +45,7 @@ Scholarship-Eligibility-Screening-System/
 │
 ├── main.py
 ├── data/
-│   └── sample_students.py
+│   └── students_sample.py
 ├── reports/
 │   └── scholarship_screening_project_report.docx
 ├── README.md
